@@ -7,6 +7,6 @@ Calculator using HTML, CSS and Java Script.
 
 ![calculator](calculator_pc.png)
 
-![calculator](calculator_mobile_1.png)
+![calculator](calculator_mobile_1.jpg)
 
 ![calculator](calculator_mobile_2.png)
